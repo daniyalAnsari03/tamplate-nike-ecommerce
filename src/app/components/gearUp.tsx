@@ -22,21 +22,21 @@ const shoes = [
     name: "Nike Dri-FIT Challenger",
     category: "Men's 18cm (approx.) 2-in-1 Versatile Shorts",
     price: "₹ 2 495",
-    image: "/gearUp/image (1).png",
+    image: "/gearUp/image1.png",
   },
   {
     id: 3,
     name: "Nike Dri-FIT ADV Run Division",
     category: "Women's Long-Sleeve Running Top",
     price: "₹ 5 295",
-    image: "/gearUp/image (2).png",
+    image: "/gearUp/image2.png",
   },
   {
     id: 4,
     name: "Nike Fast",
     category: "Women's Mid-Rise 7/8 Running Leggings with Pockets",
     price: "₹ 3 795",
-    image: "/gearUp/image (3).png",
+    image: "/gearUp/image3.png",
   },
 ];
 
